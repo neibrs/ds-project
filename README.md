@@ -9,5 +9,5 @@ Project template for [Vardoc distribution](http://www.drupal.org/project/vardoc)
 
 To install the dev version of Vardoc 8.3.x run this command:
 ```
-composer create-project vardot/vardoc-project:8.3.x-dev PROJECT_DIR_NAME --stability dev --no-interaction
+composer create-project for023/ds-project:8.3.x-dev PROJECT_DIR_NAME --stability dev --no-interaction
 ```
