@@ -1,11 +1,11 @@
 {
-  "name": "ds/ds-project",
+  "name": "neibrs/ds-project",
   "description": "Ds Project",
   "type": "project",
   "license": "GPL-2.0-or-later",
   "authors": [
     {
-      "name": "Vardot",
+      "name": "Ds",
       "homepage": "https://www.drupal.org/vardot",
       "role": "Maintainer"
     }
