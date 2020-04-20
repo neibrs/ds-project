@@ -9,10 +9,11 @@ Project template for [Vardoc distribution](http://www.drupal.org/project/vardoc)
 
 To install the most recent stable release of Vardoc 8.2.x run this command:
 ```
-composer create-project Vardot/vardoc-project:^8.2.6 PROJECT_DIR_NAME --no-dev --no-interaction
+ can not use.
+composer create-project neibrs/ds-project:^8.2.6 PROJECT_DIR_NAME --no-dev --no-interaction
 ```
 
 To install the dev version of Vardoc 8.2.x run this command:
 ```
-composer create-project vardot/vardoc-project:8.2.x-dev PROJECT_DIR_NAME --stability dev --no-interaction
+composer create-project neibrs/ds-project:8.2.x-dev PROJECT_DIR_NAME --stability dev --no-interaction
 ```
