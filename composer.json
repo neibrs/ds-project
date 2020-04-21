@@ -50,7 +50,7 @@
     "webflo/drupal-finder": "~1.0",
     "webmozart/path-util": "~2.0",
     "vardot/vardoc": "8.3.x-dev",
-    "vardot/varbase-updater": "~1.0"
+    "vardot/varbase-updater": "~1.0",
     "drupal/console": "^1.9",
     "drush/drush": "^10.2",
     "drupal/purge": "^3.0@beta",
